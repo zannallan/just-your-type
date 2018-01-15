@@ -1,0 +1,28 @@
+repo: 'just-your-type'
+canvasCourse: 'web-dev-2'
+
+inherit:
+  - naming-restrict-live
+  - git-10
+  - html
+  - google-fonts
+  - css
+  - css-order-modules-grid-type-main
+  - gridifier-unrestricted
+  - typografier-unrestricted
+  - modulifier-unrestricted
+
+html:
+  - path: 'index.html'
+    has:
+      - check: 'link[href*="|"]'
+        message: 'There should be 2 Google Fonts, both added to the same “cart” on the Google Fonts website'
+    hasNot:
+      - 'img'
+      - 'picture'
+      - 'embed'
+      - 'svg'
+      - 'object'
+
+css:
+  - path: 'css/main.css'
