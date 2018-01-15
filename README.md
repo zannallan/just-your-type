@@ -14,8 +14,8 @@ deliverables: '1 HTML file, 4 CSS files'
   <br>Must be a **minimum of two sentences**—more the better to allow you to fully explore a design.
 - Design a creative webpage using HTML & CSS only. **No images.**
 - Make it responsive and interesting with thoughtful use of colour, type & responsiveness.
-- Consider it a type project—and not just a website.
-- Thoughtfully choose a type scale, not just the default, unless you can justify your reason.
+- **Consider it a type project—and not just a website.**
+- Thoughtfully choose a type scale—not just the default, unless you can justify your reason.
 - Be creative. Use modular CSS to push your concept.
 - *Some inspiration:* [100 Days of Type](http://100daysoffonts.com/), [Typewolf](http://www.typwolf.com)
 - *Run it through Markbot and make sure it passes all the checks.*
@@ -36,21 +36,21 @@ deliverables: '1 HTML file, 4 CSS files'
 
 The grades for this assignment are split over 4 different deliverables: sketches, code, design & rationale.
 
-- **Sketches** — plan every aspect of the website on paper: grids, type, modules, responsiveness—all screen sizes.
+- **Sketches** — plan every aspect of the website on paper: boxes, semantics, grids, type, modules, responsiveness—all screen sizes.
 - **Code** — satisfy all of Markbot’s requirements—and submit using Markbot.
-- **Design** — apply sensible design choices, the compliment the text you’ve chosen.
+- **Design** — apply sensible design choices, to compliment the text you’ve chosen.
 - **Rationale** — [explain all your decisions, more below](#rationale).
 
 ### Rationale
 
-Part of the submission is to submit a rationale for your design choices. *Submit the rationale to the “Just your type” assignment on Canvas, there’s a text box.*
+Part of the submission is to write a rationale for your design choices. *Submit the rationale to the “Just your type: design” assignment on Canvas, there’s a text box.*
 
 1. Explain your chosen concept.
 2. Why did you choose these typefaces?
 3. Why did you choose this type scale?
 4. Why did you choose these colours?
 5. How did you effectively use grids & modular CSS?
-6. What challenges you overcame.
+6. What challenges did you overcome?
 
 ---
 
