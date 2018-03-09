@@ -18,7 +18,7 @@ submit: "https://algonquin.instructure.com/courses/879551/assignments/7974603"
 - **Consider it a type project—not just a website.**
 - Thoughtfully choose a type scale—not just the default, unless you can justify your reason.
 - Be creative. Use modular CSS to push your concept.
-- *Some inspiration:* [100 Days of Type](http://100daysoffonts.com/), [Typewolf](http://www.typewolf.com)
+- *Some inspiration:* [100 Days of Type](http://100daysoffonts.com/), [Typewolf](http://www.typewolf.com), [Type Scale](http://type-scale.com/)
 - *Run it through Markbot and make sure it passes all the checks.*
 
 ---
