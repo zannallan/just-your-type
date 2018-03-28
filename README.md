@@ -67,6 +67,7 @@ Below is the rubric of expectations for this project. **You will be assigned a l
 | **Gridifier** | No Gridifier | Limited use | Good use of Gridifier | Excellent use of Gridifier |
 | **Typografier** | No Typografier | Limited use | Good use of Typografier | Excellent use of Typografier |
 | **Modulifier** | No Modulifier | Limited use | Good use of Modifier | Excellent use of Modulifier |
+| **Spelling & grammar** | Wrds be gud!? | Lots of spelling & grammar mistakes | Decent, with a few mistakes | Great! No spelling or grammar errors |
 | **Semantics** | Very little HTML | Basic HTML tags chosen | Good variety and appropriate HTML tags chosen | Excellent demonstration of HTML tags and correct use |
 
 ---
