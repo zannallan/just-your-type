@@ -74,5 +74,5 @@ Below is the rubric of expectations for this project. **You will be assigned a l
 
 ## Hand in
 
-1. Drop this folder into your Markbot application. Make sure to fix all the errors. And submit to Canvas using Markbot.
+1. Drop this folder into your Markbot application. Make sure to fix all the errors. And submit for grades using Markbot.
 2. Submit your rationale to Canvas in this assignment’s submission text box.
