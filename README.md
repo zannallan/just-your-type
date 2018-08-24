@@ -43,7 +43,7 @@ The grades for this assignment are split over 3 different deliverables: text & s
 
 ### Rationale
 
-Part of the submission is to write a rationale for your design choices. *Submit the rationale to the “Just your type: design & rationale” assignment on Canvas, there’s a text box.*
+Part of the submission is to write a rationale for your design choices. *Submit the rationale to the “Just your type: design & rationale” assignment online, there’s a text box.*
 
 1. Explain your chosen concept.
 2. Why did you choose these typefaces?
@@ -75,4 +75,4 @@ Below is the rubric of expectations for this project. **You will be assigned a l
 ## Hand in
 
 1. Drop this folder into your Markbot application. Make sure to fix all the errors. And submit for grades using Markbot.
-2. Submit your rationale to Canvas in this assignment’s submission text box.
+2. Submit your rationale in this assignment’s online submission text box.
