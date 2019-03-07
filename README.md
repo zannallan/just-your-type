@@ -74,5 +74,5 @@ Below is the rubric of expectations for this project. **You will be assigned a l
 ## Hand in
 
 1. Drop this folder into your Markbot application. Make sure to fix all the errors. And submit for grades using Markbot.
-  <br>**When you submit to Progressinator, you’ll see a grey checkmark that shows the project was handed in.** You’ll still have to write a *Rationale* and the teacher will still be grading it personally.
+  <br>**When you submit to Progressinator, you’ll get a grade for the “Code” deliverable—this shows the project was handed in.** You’ll still have to write a *Rationale* and the teacher will still be grading it personally under the “Design” deliverable.
 2. *Submit your **rationale as an Issue on GitHub**, attached to the “Just your type” repository, and “Pin” the issue: there’s a button near the bottom of the Issue’s screen’s righthand column.*
