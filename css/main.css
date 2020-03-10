@@ -8,8 +8,8 @@ body {
 }
 
 blockquote {
-  max-width: 30%;
-  min-width: 230px;
+  max-width: 20%;
+  min-width: 220px;
   border: 2px solid #fdf8f0;
   color: #fdf8f0;
   background-color: rgba(75, 29, 89, .5);
