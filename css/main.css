@@ -16,6 +16,6 @@ blockquote {
   font-family: "Josefin Slab", serif;
 }
 
-blockquote:hover {
-  transform: scale(1.5, 1.5);
+blockquote:hover + .background {
+  transform: scale(2);
 }
