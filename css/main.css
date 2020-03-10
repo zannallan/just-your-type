@@ -1,41 +1,19 @@
-@-moz-viewport { width: device-width; scale: 1; }
-@-ms-viewport { width: device-width; scale: 1; }
-@-o-viewport { width: device-width; scale: 1; }
-@-webkit-viewport { width: device-width; scale: 1; }
-@viewport { width: device-width; scale: 1; }
-
-html {
-  -moz-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  text-size-adjust: 100%;
-  box-sizing: border-box;
-  font-family: serif;
-}
-
-*, *::before, *::after {
-  box-sizing: inherit;
-}
-
 body {
-  margin: 0;
   background-color: #4b1d59;
 }
 
 .background {
-  margin-top: 15%;
-  color: rgba(159, 198, 204, 0.5);
-  font-family: Euphoria Script, cursive;
-  line-height: .2;
+  color: rgba(159, 198, 204, .5);
+  font-family: "Euphoria Script", cursive;
 }
 
 blockquote {
   max-width: 40%;
   border: 2px solid #fdf8f0;
   color: #fdf8f0;
-  background-color: rgba(75, 29, 89, 0.5);
+  background-color: rgba(75, 29, 89, .5);
   left: 50%;
   top: 15%;
-  transform: translate(-50%,50%);
-  font-family: Josefin Slab, serif;
+  transform: translate(-50%, 50%);
+  font-family: "Josefin Slab", serif;
 }
