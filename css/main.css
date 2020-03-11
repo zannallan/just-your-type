@@ -24,9 +24,25 @@ blockquote:hover {
 }
 
 @keyframes mycolour {
-  0% {color: rgba(159, 198, 204, .5);}
-  25% {color: rgba(159, 198, 204, .45);}
-  50% {color: rgba(159, 198, 204, .4);}
-  75% {color: rgba(159, 198, 204, .45);}
-  100% {color: rgba(159, 198, 204, .5);}
+
+  0% {
+    color: rgba(159, 198, 204, .5);
+  }
+
+  25% {
+    color: rgba(159, 198, 204, .45);
+  }
+
+  50% {
+    color: rgba(159, 198, 204, .4);
+  }
+
+  75% {
+    color: rgba(159, 198, 204, .45);
+  }
+
+  100% {
+    color: rgba(159, 198, 204, .5);
+  }
+
 }
